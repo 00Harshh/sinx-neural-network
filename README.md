@@ -111,14 +111,12 @@ Feel free to fork this project and experiment with:
 - Various optimization techniques
 - New target functions to approximate
 
-## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
 
 ## 🔗 Connect
 
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Email**: [your.email@example.com]
+- **LinkedIn**: [www.linkedin.com/in/harsh-joshi-8b2219297]
+- **Twitter**: [https://x.com/008Harshh]
 
 ---
 
